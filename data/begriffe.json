@@ -1,0 +1,522 @@
+[
+    {
+        "id": "0",
+        "begriff": "Ei",
+        "bild": "images/ei.jpg"
+    },
+    {
+        "id": "00",
+        "begriff": "Huhn",
+        "bild": "images/huhn.jpg"
+    },
+    {
+        "id": "000",
+        "begriff": "Misthaufen",
+        "bild": "images/misthaufen.jpg"
+    },
+    {
+        "id": "1",
+        "begriff": "Baum",
+        "bild": "images/baum.jpg"
+    },
+    {
+        "id": "2",
+        "begriff": "Münze",
+        "bild": "images/muenze.jpg"
+    },
+    {
+        "id": "3",
+        "begriff": "Hocker",
+        "bild": "images/hocker.jpg"
+    },
+    {
+        "id": "4",
+        "begriff": "Auto",
+        "bild": "images/auto.jpg"
+    },
+    {
+        "id": "5",
+        "begriff": "Hand",
+        "bild": "images/hand.jpg"
+    },
+    {
+        "id": "6",
+        "begriff": "Würfel",
+        "bild": "images/würfel.jpg"
+    },
+    {
+        "id": "7",
+        "begriff": "Zwerg",
+        "bild": "images/zwerg.jpg"
+    },
+    {
+        "id": "8",
+        "begriff": "Achterbahn",
+        "bild": "images/achterbahn.jpg"
+    },
+    {
+        "id": "9",
+        "begriff": "Katze",
+        "bild": "images/katze.jpg"
+    },
+    {
+        "id": "10",
+        "begriff": "Bibel / Buch",
+        "bild": "images/bibel_buch.jpg"
+    },
+    {
+        "id": "11",
+        "begriff": "Fußball",
+        "bild": "images/fußball.jpg"
+    },
+    {
+        "id": "12",
+        "begriff": "Geist",
+        "bild": "images/geist.jpg"
+    },
+    {
+        "id": "13",
+        "begriff": "Aufzug / Lift",
+        "bild": "images/aufzug_lift.jpg"
+    },
+    {
+        "id": "14",
+        "begriff": "Herz / Valentinstag",
+        "bild": "images/herz_valentinstag.jpg"
+    },
+    {
+        "id": "15",
+        "begriff": "Ritter",
+        "bild": "images/ritter.jpg"
+    },
+    {
+        "id": "16",
+        "begriff": "Teenager",
+        "bild": "images/teenager.jpg"
+    },
+    {
+        "id": "17",
+        "begriff": "Kartenspiel",
+        "bild": "images/kartenspiel.jpg"
+    },
+    {
+        "id": "18",
+        "begriff": "Abendverkehr",
+        "bild": "images/abendverkehr.jpg"
+    },
+    {
+        "id": "19",
+        "begriff": "Abendessen",
+        "bild": "images/abendessen.jpg"
+    },
+    {
+        "id": "20",
+        "begriff": "Fernseher",
+        "bild": "images/fernseher.jpg"
+    },
+    {
+        "id": "21",
+        "begriff": "Bett",
+        "bild": "images/bett.jpg"
+    },
+    {
+        "id": "22",
+        "begriff": "Polster",
+        "bild": "images/polster.jpg"
+    },
+    {
+        "id": "23",
+        "begriff": "Bettdecke",
+        "bild": "images/bettdecke.jpg"
+    },
+    {
+        "id": "24",
+        "begriff": "Nachtkasterl",
+        "bild": "images/nachtkasterl.jpg"
+    },
+    {
+        "id": "25",
+        "begriff": "Wecker",
+        "bild": "images/wecker.jpg"
+    },
+    {
+        "id": "26",
+        "begriff": "Nachttischlade",
+        "bild": "images/nachttischlade.jpg"
+    },
+    {
+        "id": "27",
+        "begriff": "Vorhang",
+        "bild": "images/vorhang.jpg"
+    },
+    {
+        "id": "28",
+        "begriff": "Mond",
+        "bild": "images/mond.jpg"
+    },
+    {
+        "id": "29",
+        "begriff": "Sterne",
+        "bild": "images/sterne.jpg"
+    },
+    {
+        "id": "30",
+        "begriff": "Kasten",
+        "bild": "images/kasten.jpg"
+    },
+    {
+        "id": "31",
+        "begriff": "Badewanne",
+        "bild": "images/badewanne.jpg"
+    },
+    {
+        "id": "32",
+        "begriff": "Duschschlauch",
+        "bild": "images/duschschlauch.jpg"
+    },
+    {
+        "id": "33",
+        "begriff": "Schwamm",
+        "bild": "images/schwamm.jpg"
+    },
+    {
+        "id": "34",
+        "begriff": "Seife",
+        "bild": "images/seife.jpg"
+    },
+    {
+        "id": "35",
+        "begriff": "Handtücher",
+        "bild": "images/handtücher.jpg"
+    },
+    {
+        "id": "36",
+        "begriff": "Alibert / Spiegelkasten",
+        "bild": "images/alibert_spiegelkasten.jpg"
+    },
+    {
+        "id": "37",
+        "begriff": "Waschbecken",
+        "bild": "images/waschbecken.jpg"
+    },
+    {
+        "id": "38",
+        "begriff": "Zahnbürste",
+        "bild": "images/zahnbürste.jpg"
+    },
+    {
+        "id": "39",
+        "begriff": "Rasierapparat",
+        "bild": "images/rasierapparat.jpg"
+    },
+    {
+        "id": "40",
+        "begriff": "Toilette / Klo",
+        "bild": "images/toilette_klo.jpg"
+    },
+    {
+        "id": "41",
+        "begriff": "Kühlschrank",
+        "bild": "images/kühlschrank.jpg"
+    },
+    {
+        "id": "42",
+        "begriff": "Herd",
+        "bild": "images/herd.jpg"
+    },
+    {
+        "id": "43",
+        "begriff": "Topf",
+        "bild": "images/topf.jpg"
+    },
+    {
+        "id": "44",
+        "begriff": "Kaffeemaschine",
+        "bild": "images/kaffeemaschine.jpg"
+    },
+    {
+        "id": "45",
+        "begriff": "Mixer",
+        "bild": "images/mixer.jpg"
+    },
+    {
+        "id": "46",
+        "begriff": "Mikrowellenherd",
+        "bild": "images/mikrowellenherd.jpg"
+    },
+    {
+        "id": "47",
+        "begriff": "Milchpackerl",
+        "bild": "images/milchpackerl.jpg"
+    },
+    {
+        "id": "48",
+        "begriff": "Küchenrolle",
+        "bild": "images/küchenrolle.jpg"
+    },
+    {
+        "id": "49",
+        "begriff": "Butter",
+        "bild": "images/butter.jpg"
+    },
+    {
+        "id": "50",
+        "begriff": "Obstschale / Schüssel",
+        "bild": "images/obstschale_schüssel.jpg"
+    },
+    {
+        "id": "51",
+        "begriff": "Schreibtisch",
+        "bild": "images/schreibtisch.jpg"
+    },
+    {
+        "id": "52",
+        "begriff": "Sofa",
+        "bild": "images/sofa.jpg"
+    },
+    {
+        "id": "53",
+        "begriff": "Steintisch",
+        "bild": "images/steintisch.jpg"
+    },
+    {
+        "id": "54",
+        "begriff": "Stehlampe",
+        "bild": "images/stehlampe.jpg"
+    },
+    {
+        "id": "55",
+        "begriff": "Heizkörper",
+        "bild": "images/heizkörper.jpg"
+    },
+    {
+        "id": "56",
+        "begriff": "Teleskop",
+        "bild": "images/teleskop.jpg"
+    },
+    {
+        "id": "57",
+        "begriff": "Säbel",
+        "bild": "images/säbel.jpg"
+    },
+    {
+        "id": "58",
+        "begriff": "Bild",
+        "bild": "images/bild.jpg"
+    },
+    {
+        "id": "59",
+        "begriff": "Blumentopf mit Blume",
+        "bild": "images/blumentopf_mit_blume.jpg"
+    },
+    {
+        "id": "60",
+        "begriff": "CD",
+        "bild": "images/cd.jpg"
+    },
+    {
+        "id": "61",
+        "begriff": "Kinderhaus",
+        "bild": "images/kinderhaus.jpg"
+    },
+    {
+        "id": "62",
+        "begriff": "Schaukel",
+        "bild": "images/schaukel.jpg"
+    },
+    {
+        "id": "63",
+        "begriff": "Komposthaufen / Mistgabel",
+        "bild": "images/komposthaufen_mistgabel.jpg"
+    },
+    {
+        "id": "64",
+        "begriff": "Brunnen / Teich",
+        "bild": "images/brunnen_teich.jpg"
+    },
+    {
+        "id": "65",
+        "begriff": "Hacke",
+        "bild": "images/hacke.jpg"
+    },
+    {
+        "id": "66",
+        "begriff": "Scheibtruhe",
+        "bild": "images/scheibtruhe.jpg"
+    },
+    {
+        "id": "67",
+        "begriff": "Frosch / Froschkönig / Krone",
+        "bild": "images/frosch_froschkönig_krone.jpg"
+    },
+    {
+        "id": "68",
+        "begriff": "Griller / Brezel",
+        "bild": "images/griller_brezel.jpg"
+    },
+    {
+        "id": "69",
+        "begriff": "Bär",
+        "bild": "images/bär.jpg"
+    },
+    {
+        "id": "70",
+        "begriff": "Schildkröte",
+        "bild": "images/schildkröte.jpg"
+    },
+    {
+        "id": "71",
+        "begriff": "Schi",
+        "bild": "images/schi.jpg"
+    },
+    {
+        "id": "72",
+        "begriff": "Eisstock",
+        "bild": "images/eisstock.jpg"
+    },
+    {
+        "id": "73",
+        "begriff": "Schlitten",
+        "bild": "images/schlitten.jpg"
+    },
+    {
+        "id": "74",
+        "begriff": "Hirsch / Hirschgeweih",
+        "bild": "images/hirsch_hirschgeweih.jpg"
+    },
+    {
+        "id": "75",
+        "begriff": "Pistole",
+        "bild": "images/pistole.jpg"
+    },
+    {
+        "id": "76",
+        "begriff": "Kiste",
+        "bild": "images/kiste.jpg"
+    },
+    {
+        "id": "77",
+        "begriff": "Rauchfang",
+        "bild": "images/rauchfang.jpg"
+    },
+    {
+        "id": "78",
+        "begriff": "Pinsel / Farbe",
+        "bild": "images/pinsel_farbe.jpg"
+    },
+    {
+        "id": "79",
+        "begriff": "Drache",
+        "bild": "images/drache.jpg"
+    },
+    {
+        "id": "80",
+        "begriff": "Tür",
+        "bild": "images/tür.jpg"
+    },
+    {
+        "id": "81",
+        "begriff": "Leiter",
+        "bild": "images/leiter.jpg"
+    },
+    {
+        "id": "82",
+        "begriff": "Motorrad / Fahrrad",
+        "bild": "images/motorrad_fahrrad.jpg"
+    },
+    {
+        "id": "83",
+        "begriff": "Kompressor",
+        "bild": "images/kompressor.jpg"
+    },
+    {
+        "id": "84",
+        "begriff": "Werkbank / Schraubstock",
+        "bild": "images/werkbank_schraubstock.jpg"
+    },
+    {
+        "id": "85",
+        "begriff": "Kabelrolle",
+        "bild": "images/kabelrolle.jpg"
+    },
+    {
+        "id": "86",
+        "begriff": "Säge",
+        "bild": "images/säge.jpg"
+    },
+    {
+        "id": "87",
+        "begriff": "Hammer",
+        "bild": "images/hammer.jpg"
+    },
+    {
+        "id": "88",
+        "begriff": "Zange",
+        "bild": "images/zange.jpg"
+    },
+    {
+        "id": "89",
+        "begriff": "Schraubenzieher",
+        "bild": "images/schraubenzieher.jpg"
+    },
+    {
+        "id": "90",
+        "begriff": "Kette",
+        "bild": "images/kette.jpg"
+    },
+    {
+        "id": "91",
+        "begriff": "Füße / Schuhe",
+        "bild": "images/füße_schuhe.jpg"
+    },
+    {
+        "id": "92",
+        "begriff": "Knie",
+        "bild": "images/knie.jpg"
+    },
+    {
+        "id": "93",
+        "begriff": "Oberschenkel",
+        "bild": "images/oberschenkel.jpg"
+    },
+    {
+        "id": "94",
+        "begriff": "Hintern / Hosentasche",
+        "bild": "images/hintern_hosentasche.jpg"
+    },
+    {
+        "id": "95",
+        "begriff": "Hüfte / Bauch",
+        "bild": "images/hüfte_bauch.jpg"
+    },
+    {
+        "id": "96",
+        "begriff": "Brust",
+        "bild": "images/brust.jpg"
+    },
+    {
+        "id": "97",
+        "begriff": "Schultern",
+        "bild": "images/schultern.jpg"
+    },
+    {
+        "id": "98",
+        "begriff": "Hals",
+        "bild": "images/hals.jpg"
+    },
+    {
+        "id": "99",
+        "begriff": "Gesicht",
+        "bild": "images/gesicht.jpg"
+    },
+    {
+        "id": "100",
+        "begriff": "Haare",
+        "bild": "images/haare.jpg"
+    },
+    {
+        "id": "1000",
+        "begriff": "Ameisen",
+        "bild": "images/ameisen.jpg"
+    }
+]

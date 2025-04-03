@@ -1,0 +1,35 @@
+name: Build Kivy APK
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install buildozer and deps
+        run: |
+          sudo apt update
+          sudo apt install -y zip unzip openjdk-11-jdk python3-pip python3-setuptools git build-essential ccache
+          pip3 install --user buildozer
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+
+      - name: Build APK
+        run: buildozer android debug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: gedaechtnispalast-apk
+          path: bin/*.apk

@@ -11,3 +11,6 @@ Viel Erfolg beim Trainieren!
 v2 statt v3
 "Start sauberer Build" 
 "Noch ein Trigger" 
+"Neuer Build-Versuch" 
+"Neuer Build-Versuch" 
+"Neuer Build-Versuch" 

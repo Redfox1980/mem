@@ -8,6 +8,4 @@
 
 Viel Erfolg beim Trainieren!
 
-#2
-"# Test„nderung" 
-"Letzter Versuch, damit GitHub Actions losgeht" 
+v2 statt v3
